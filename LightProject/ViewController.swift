@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     /// Defining the variable of the state of the background
     var lightOn = true
     
-    /// Building the app
+    /// Building the screen
     override func viewDidLoad() {
         super.viewDidLoad()
         updateUI()
